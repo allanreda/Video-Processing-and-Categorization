@@ -22,4 +22,4 @@ The project is built using:
 -Pandas and NumPy for data manipulation
 
 ## Goal
-The primary goal of this project is to transform a chaotic collection of videos on a website into a well-organized and categorized dataset. By doing so, it provides a structured and accessible way to handle and analyze video content.
+The primary goal of this project is to get an overview of a chaotic collection of videos on a website and being able to categorize them by content/visual features. By doing so, it provides a structured and accessible way to handle and analyze video content.

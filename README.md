@@ -14,7 +14,12 @@ Designed to run on a Google Cloud virtual machine, this script continuously proc
 After feature extraction, this module categorizes the videos based on the extracted features. It uses Principal Component Analysis (PCA) for reducing the dimensionality of the data and the KMeans clustering algorithm to categorize the videos. This step is crucial in organizing the videos into meaningful groups, making the vast array of video data more manageable and understandable.
 
 ## Technologies
-The project is built using TensorFlow for machine learning tasks, Google Cloud services for scalable data storage and processing, and popular Python libraries like Pandas and NumPy for data manipulation.
+The project is built using:   
+-BeautifulSoup for web scraping  
+-TensorFlow for visual feature extraction  
+-Scikit-Learn for machine learning tasks  
+-Google Cloud services for scalable data storage and processing  
+-Pandas and NumPy for data manipulation
 
 ## Goal
 The primary goal of this project is to transform a chaotic collection of videos on a website into a well-organized and categorized dataset. By doing so, it provides a structured and accessible way to handle and analyze video content.

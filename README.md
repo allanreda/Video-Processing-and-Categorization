@@ -16,6 +16,7 @@ After feature extraction, this module categorizes the videos based on the extrac
 ## Technologies
 The project is built using:   
 -BeautifulSoup for web scraping  
+-OpenCV (cv2) for handling videos  
 -TensorFlow for visual feature extraction  
 -Scikit-Learn for machine learning tasks  
 -Google Cloud services for scalable data storage and processing  

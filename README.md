@@ -1,4 +1,4 @@
-# Video_Processing_And_Categorization
+# Video Processing and Categorization
 
 ## Overview
 This repository hosts an advanced Python pipeline designed for categorizing a large number of disorganized videos on a website. The pipeline streamlines the process of scraping videos from the website, processing them in a Google Cloud virtual machine, and categorizing them using machine learning techniques. It's an end-to-end solution aimed at bringing order and understanding to a previously unstructured collection of video data.
